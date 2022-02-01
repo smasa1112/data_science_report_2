@@ -1,0 +1,2 @@
+# ignore neurodata(.mat file)
+*.mat
